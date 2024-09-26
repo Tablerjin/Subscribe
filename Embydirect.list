@@ -7,8 +7,8 @@
 # IP-CIDR: 8
 # USER-AGENT: 4
 # TOTAL: 2
-DOMAIN,dpx2.niceduck.lol
-DOMAIN,dpx1v6.niceduck.lol
-DOMAIN,dpx1.niceduck.lol
+DOMAIN-KEYWORD,dpx2.niceduck.lol
+DOMAIN-KEYWORD,dpx1v6.niceduck.lol
+DOMAIN-KEYWORD,dpx1.niceduck.lol
 
 
