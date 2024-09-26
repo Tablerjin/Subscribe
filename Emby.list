@@ -9,7 +9,7 @@ payload:
   - DOMAIN,wptv.ii00.cc
   - DOMAIN,music.mefun.vip
   - DOMAIN-SUFFIX,src-emby.cn2gias.uk
-  - DOMAIN-SUFFIX,dpxcdn.niceduck.lol
+  - DOMAIN-KEYWORD,dpxcdn.niceduck.lol
   - DOMAIN-SUFFIX,bili.bili.rip
   - DOMAIN-SUFFIX,ntrrr.am.sb
   - DOMAIN-SUFFIX,stream.synn.cc
