@@ -1,0 +1,14 @@
+# NAME: Emby direct
+# AUTHOR: tablerjin
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:17
+# DOMAIN: 53
+# DOMAIN-SUFFIX: 62
+# IP-CIDR: 8
+# USER-AGENT: 4
+# TOTAL: 2
+DOMAIN,dpx2.niceduck.lol
+DOMAIN,dpx1v6.niceduck.lol
+DOMAIN,dpx1.niceduck.lol
+
+
