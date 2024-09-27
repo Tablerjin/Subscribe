@@ -3,6 +3,10 @@
 # UPDATED: 2024-9-27 09:52:12
 # DOMAIN-KEYWORD: 6
 # TOTAL: 9
+#  - DOMAIN-KEYWORD,dpx2.niceduck.lol
+ # - DOMAIN-KEYWORD,dpx1v6.niceduck.lol
+#  - DOMAIN-KEYWORD,dpx1.niceduck.lol
+#  - DOMAIN-KEYWORD,dpxcdn.niceduck.lol
 payload:
   - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN,sgtv.ii00.cc
@@ -10,8 +14,3 @@ payload:
   - DOMAIN,cn-music.mefun.vip
   - DOMAIN,v6.cdn08.magpie.bond
   - DOMAIN,v6.cdn07.magpie.bond
-#  - DOMAIN-KEYWORD,dpx2.niceduck.lol
- # - DOMAIN-KEYWORD,dpx1v6.niceduck.lol
-#  - DOMAIN-KEYWORD,dpx1.niceduck.lol
-#  - DOMAIN-KEYWORD,dpxcdn.niceduck.lol
-#
