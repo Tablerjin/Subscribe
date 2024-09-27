@@ -1,36 +1,22 @@
 # url 里填写自己的订阅,名称不能重复
 proxy-providers:
   provider1:
-    url: "https://dadada.acaisbest.com/api/v1/client/subscribe?token=dd8e452527571ef820f302cc8dc9b7e0"
+    url: "url 里填写自己的订阅1"
     type: http
     interval: 7200
     health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
     override:
-      additional-prefix: "[ACA]"
+      additional-prefix: "[订阅1]"
 
   provider2:
-    url: "https://dy912.wlysub.xyz/api/v1/client/subscribe?token=8b8447bf4289c5fe7987fb921be5811e"
+    url: "url 里填写自己的订阅2"
     type: http
     interval: 7200
     health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
     override:
-      additional-prefix: "[Wen]"
+      additional-prefix: "[订阅2]"
 
-  provider3:
-    url: "https://suc2.sntp.io/baseStr?token=7864569c56b7fca33e97711799876ec7"
-    type: http
-    interval: 7200
-    health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
-    override:
-      additional-prefix: "[SH]"
 
-  provider4:
-    url: "http://47.238.100.147:36985/api/v1/client/hy?token=4f046d10cefab9fde2485a42d85f2212"
-    type: http
-    interval: 7200
-    health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
-    override:
-      additional-prefix: "[HY]"
 
 mixed-port: 7890
 ipv6: true
