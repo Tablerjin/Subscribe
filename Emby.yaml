@@ -8,6 +8,7 @@
 #  - DOMAIN-KEYWORD,dpx1.niceduck.lol
 #  - DOMAIN-KEYWORD,dpxcdn.niceduck.lol
 payload:
+    - DOMAIN-SUFFIX,emby.cn2gias.uk
     - DOMAIN-SUFFIX,emby.nexitally.com
     - DOMAIN-SUFFIX,emby.cjpc.cc
     - DOMAIN-SUFFIX,emby.flowercloud.yt
