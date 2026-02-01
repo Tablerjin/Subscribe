@@ -5,6 +5,7 @@
 # DOMAIN-SUFFIX: 28
 # TOTAL: 28
 payload:
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN,wgtv.ii00.cc
   - DOMAIN,wptv.ii00.cc
   - DOMAIN,music.mefun.vip
